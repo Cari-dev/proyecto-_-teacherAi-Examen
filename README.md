@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeacherAI · Asistente inteligente para docentes
 
 Prototipo web funcional para preparar clases, organizar material educativo y generar propuestas pedagógicas con un asistente de IA.
@@ -365,3 +366,6 @@ Se comprobó con el backend y el frontend en ejecución:
 ---
 
 Proyecto universitario · TeacherAI · 2026
+=======
+# proyecto-_-teacherAi-Examen
+>>>>>>> 96f6dc6d5c0494503bbee5e17e53af0213825892
