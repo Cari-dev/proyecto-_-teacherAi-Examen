@@ -1,0 +1,29 @@
+# Entornos y dependencias
+.venv/
+venv/
+node_modules/
+dist/
+dist-ssr/
+
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
