@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img width="1828" height="916" alt="image" src="https://github.com/user-attachments/assets/89c32125-dba4-4fc7-a0e8-143ddfcb8a6e" /><<<<<<< HEAD
 # TeacherAI · Asistente inteligente para docentes
 
 Prototipo web funcional para preparar clases, organizar material educativo y generar propuestas pedagógicas con un asistente de IA.
@@ -16,17 +16,23 @@ La aplicación está construida con **React + TypeScript + Vite + Tailwind CSS**
 - Últimas planificaciones registradas.
 - Indicador del estado de la API y del modo del asistente.
 
+<img width="1828" height="916" alt="image" src="https://github.com/user-attachments/assets/9c93cd03-32fb-4a94-a050-959c83dc2fdc" />
+
 ### Planificaciones (CRUD completo)
 - Crear, listar, consultar, editar y eliminar.
 - Campos: título, asignatura, nivel, curso, tema, objetivo, duración, contenido, actividades, recursos y fecha.
 - Búsqueda por título, tema o asignatura.
 - Confirmación antes de eliminar.
 
+<img width="1901" height="696" alt="image" src="https://github.com/user-attachments/assets/383c822a-3065-4d70-a9b6-27cc8a25c1f3" />
+
 ### Actividades educativas
 - Crear, listar, consultar y eliminar.
 - Campos: título, asignatura, nivel, tema, descripción, tipo y duración estimada.
 - Búsqueda y filtro por tipo.
 - Confirmación antes de eliminar.
+
+<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/26a585f2-c5c7-4258-bfc1-77b602c83821" />
 
 ### Evaluaciones
 - Crear cuestionarios con preguntas y opciones.
@@ -35,6 +41,8 @@ La aplicación está construida con **React + TypeScript + Vite + Tailwind CSS**
 - Listado, detalle con respuestas correctas resaltadas y eliminación en cascada.
 - Confirmación antes de eliminar.
 
+<img width="1910" height="695" alt="image" src="https://github.com/user-attachments/assets/f87c87eb-5fa9-4862-80ef-40438d97a9b1" />
+
 ### Asistente TeacherAI
 - Genera ideas de clase, actividades, preguntas, explicaciones y adaptaciones.
 - Entradas: tema, asignatura, nivel educativo, tipo de contenido e indicaciones opcionales.
@@ -42,6 +50,9 @@ La aplicación está construida con **React + TypeScript + Vite + Tailwind CSS**
 - **Modo demostración:** usa plantillas locales y muestra de forma explícita que **NO fue generado por Gemini**.
 - **Integración real opcional con Gemini**, aislada en el backend y configurable por variables de entorno.
 - Si Gemini está configurado pero falla, se devuelve un error claro; nunca se presenta una plantilla como si fuera Gemini.
+
+<img width="1864" height="925" alt="image" src="https://github.com/user-attachments/assets/2614f3cf-9416-45e4-bf14-aa9ae96287d7" />
+
 
 ### Experiencia de uso
 - Interfaz responsive con sidebar, encabezado y tarjetas.
