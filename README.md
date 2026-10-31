@@ -1,4 +1,4 @@
-<img width="1828" height="916" alt="image" src="https://github.com/user-attachments/assets/89c32125-dba4-4fc7-a0e8-143ddfcb8a6e" /><<<<<<< HEAD
+<<<<<<< HEAD
 # TeacherAI · Asistente inteligente para docentes
 
 Prototipo web funcional para preparar clases, organizar material educativo y generar propuestas pedagógicas con un asistente de IA.
